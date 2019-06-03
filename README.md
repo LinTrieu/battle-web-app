@@ -48,7 +48,7 @@ Link to challenge instructions: https://github.com/makersacademy/course/tree/mas
 - POST/redirect/GET pattern
 - Viewing hit points [CURRENT STAGE @ 30-MAY EOD]
 
-#### UNFINISHED AS OF 30-MAY
+#### INCOMPLETE EXERCISES AS OF 30-MAY
 - Test helpers
 - Attacking Player 2
 - Extracting logic to the model
